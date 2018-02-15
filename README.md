@@ -1,2 +1,2 @@
-# iMacros
-iMacro projects to automate through frequently used sites
+# JavaInstagramIMacro
+iMacro written in Java to automate following people in instagram
